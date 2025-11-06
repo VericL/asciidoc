@@ -1,0 +1,52 @@
+Uvod u AsciiDoc
+Ime i prezime
+Sveučilište u Zadru
+6. studenoga 2025.
+
+Sažetak
+Ovaj dokument objašnjava osnovne principe AsciiDoc sintakse. Namijenjen je studentima koji već poznaju Markdown, ali žele naučiti alat koji nudi više mogućnosti za strukturiranje i oblikovanje akademskog i tehničkog teksta.
+
+Što je AsciiDoc
+AsciiDoc je plain-text format za pisanje strukturiranih dokumenata. Tekst je lako čitljiv u izvornom obliku i može se pretvoriti u HTML, PDF ili DOCX pomoću alata Asciidoctor.
+
+Glavne prednosti:
+- podržava naslove svih razina
+- automatski izrađuje sadržaj i numerira poglavlja
+- koristi atribute i varijable
+- jednostavno dodaje fusnote, tablice, citate i blokove koda
+
+Struktura dokumenta
+Na početku se obično nalazi naslov, autor, datum i osnovni atributi.
+Naslovi se označavaju simbolima jednakosti (=).
+Više znakova znači nižu razinu naslova.
+
+Formatiranje teksta
+Tekst se može podebljati, nagnuti ili precrtati.
+
+Popisi
+Numerirani popisi koriste brojeve ili točke.
+Nenumerirani popisi koriste zvjezdice ili crtice.
+
+Linkovi i slike
+Možete dodavati poveznice na web stranice te umetati slike iz lokalne mape projekta.
+
+Citati i fusnote
+Citati se prikazuju u posebnom bloku, uz ime autora.
+Fusnote se dodaju na kraju rečenice i sadrže kratko objašnjenje.
+
+Tablice
+Tablice omogućuju pregledno prikazivanje podataka u redovima i stupcima.
+Svaka ćelija odvaja se vertikalnom crtom (|).
+
+Kod
+Blokovi koda koriste se za prikaz primjera u programskim jezicima.
+Mogu imati i oznaku jezika, npr. python ili bash.
+
+Napomene
+Posebni blokovi označavaju važne dijelove teksta, poput upozorenja ili savjeta.
+Primjeri su: TIP, NOTE, WARNING i IMPORTANT.
+
+Zaključak
+AsciiDoc kombinira jednostavnost običnog teksta s mogućnostima profesionalnog oblikovanja. Kada savladate osnovnu sintaksu, lako možete izvesti dokument u HTML ili PDF oblik i objaviti ga putem GitHub-a.
+
+
